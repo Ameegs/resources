@@ -3,13 +3,13 @@
 
 # FontAwesome Pro 5.15.2
 
-Basic Documentation:
+Basic Documentation:<br>
 https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
 
-Icon Gallery:
+Icon Gallery:<br>
 https://fontawesome.com/icons?d=gallery&p=2
 
-Cheatsheet:
+Cheatsheet:<br>
 https://fontawesome.com/cheatsheet
 
 
@@ -17,8 +17,8 @@ https://fontawesome.com/cheatsheet
 
 https://kenwheeler.github.io/slick/
 
-Usage:
+Usage:<br>
 https://kenwheeler.github.io/slick/#getting-started
 
-Settings:
+Settings:<br>
 https://kenwheeler.github.io/slick/#settings
